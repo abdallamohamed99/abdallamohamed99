@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abdalla Mohamed
-- 👀 I’m interested in Software Engineering
+- Hi, I’m Abdalla Mohamed
+- I’m interested in Software Engineering
 
 <!---
 abdallamohamed99/abdallamohamed99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
